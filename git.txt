@@ -60,4 +60,33 @@ git log --oneline
 
 # Purber version e jawa: 
 git checkout 136dd2b
+# ekhon purber version er sobkisu ekhane show korbe 
 
+# jodi abar purber version e fire jete chay taile ei command ti dite hobe  
+git checkout master
+
+
+
+## making Branch
+git branch table-version(branch_name)
+# sobgula branch er list :
+git branch
+# nicher 2 ta show korbe  
+* master
+  table-version
+
+
+
+# branch checkout:
+git status (kon branch e achi seta show korbe)
+
+#new create kora branch(table-version) checkout korte chile same ager command
+git checkout table-version (eketre branch table version e chole geche show kore)
+
+
+# new branch create and sathe sathe version check kora 
+git checkout -b table-version-new
+
+
+
+## new branch modification:
