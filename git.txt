@@ -30,8 +30,7 @@ git add --all          or git add . (sob file chle asbe
 git commit -m "git Added" 
 # Jodi 1 or more file thake taile (github)
 git commit -m "git and github Added"
-# স্টেিজং এিরয়াের নেওয়ার আেগ কোনোিকছু কিমট করেত
-পারেবন না 
+
 
 
 # File modify and again commit: 
@@ -40,3 +39,7 @@ git commit --m "git changed Added"
 # then show this type of command .....
 # [master 86ecd6f] git changed Added
 # 1 file changed, 12 insertions(+), 1 deletion(-)
+
+
+
+Again modify and commit: 
