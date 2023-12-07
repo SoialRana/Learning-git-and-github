@@ -42,4 +42,22 @@ git commit --m "git changed Added"
 
 
 
-Again modify and commit: 
+# Again modify and commit: 
+
+
+# Commit log check: 
+git log (joto commit korchi sob details pabo)
+
+# ekhan theke ber hote q button press korte hobe
+# same line onnovabe dekhte chaile:
+git log --oneline
+
+# evabe show korbe....061e4f2 (HEAD -> master) git some changed
+	4c4fb13 git changed Added
+	86ecd6f git changed Added
+	136dd2b git Added
+
+
+# Purber version e jawa: 
+git checkout 136dd2b
+
