@@ -90,3 +90,25 @@ git checkout -b table-version-new
 
 
 ## new branch modification:
+#jotokhon porjonto kisu commit korbo na totokhon git segula ke count oi korbe na
+# commit korar jonno
+git add .
+git commit --m "Table added"
+
+# ekhon table version e thaka kajgulo main branch e niye jabo seijonno main branch check out korbo age
+git checkout master
+
+
+# kono version delete korte chaile 
+git branch -D table-version-now(table version name)
+
+
+## branch main e merge:
+# table version e kora modification gulo main e niye ante cacchi
+git merge table-version
+# sei sathe table version er commit tao git automatic add korbe
+git log --oneline 
+
+
+## Ager commit and new commit er difference
+git diff "first commit id" "second commit id"
