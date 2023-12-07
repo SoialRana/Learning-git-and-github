@@ -111,4 +111,5 @@ git log --oneline
 
 
 ## Ager commit and new commit er difference
-git diff "first commit id" "second commit id"
+# git diff "first commit id" "second commit id"
+git diff 86d1d5b 86ecd6f
