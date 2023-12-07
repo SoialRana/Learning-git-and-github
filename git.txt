@@ -113,3 +113,22 @@ git log --oneline
 ## Ager commit and new commit er difference
 # git diff "first commit id" "second commit id"
 git diff 86d1d5b 86ecd6f
+
+
+# amar project ami baire sobar sathe share korte chay . ei jonno amader ekta host provider lagbe jeta holo github
+ls -al ~/.ssh (for ssh key generate)
+
+
+
+SSH Key is : 
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILAnDVFjAnmIufW7oIRFaQxVVeZDJtCs5FDc4xS2cMWI srsobuj150921@gmail.com
+
+
+## Github push:
+git push origin master(project name)
+or, git push origin table-version
+
+
+## github theke pull
+git pul origin main
