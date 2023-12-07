@@ -1,0 +1,26 @@
+version check: $ git --version
+global name: $ git config --global user.name "Sobuj"
+global email: $ git config --global user.email "srsobuj150921@gmail.com"
+
+Local name: git config user.name "Your Local Name"
+Local email: git config user.email "your.email@example.com"
+
+checking configuration:
+# Check global configurations
+git config --global --get user.name
+git config --global --get user.email
+
+# Check local configurations
+git config --get user.name
+git config --get user.email
+
+
+cd git.txt
+cd ..
+git status
+
+
+staging area: 
+git add git.txt
+git status
+git add --all          or git add .
