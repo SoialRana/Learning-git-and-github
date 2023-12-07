@@ -23,4 +23,15 @@ git status
 staging area: 
 git add git.txt
 git status
-git add --all          or git add .
+git add --all          or git add . (sob file chle asbe
+
+
+final commit: 
+git commit -m "git Added" 
+Jodi 1 or more file thake taile (github)
+git commit -m "git and github Added"
+স্টেিজং এিরয়াের নেওয়ার আেগ কোনোিকছু কিমট করেত
+পারেবন না 
+
+
+File modify and again commit: 
